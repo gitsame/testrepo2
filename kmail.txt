@@ -1,0 +1,5 @@
+Login page
+Registration page
+User page(send package, my packages)
+Send package(откуда, куда)
+Package info(откуда, куда, места где была)
